@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P82xIbs7blgAG7zpyZc0/K5UGiNwCg+yIKCAwdL8rQjj7PZ1/R+qqTZi8rLITm4SK8hzMXWmrEmWmo84pnEboQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vaidy\\source\\repos\\WebApiProject_Docker\\WebApiProject_Docker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vaidy\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
